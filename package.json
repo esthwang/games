@@ -1,0 +1,20 @@
+{
+  "name": "crossword",
+  "version": "1.0.0",
+  "description": "The Maroon's crossword page.",
+  "main": "index.js",
+  "repository": "https://github.com/euirim/crossword.git",
+  "author": "Euirim Choi <euirim@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "16.6",
+    "react-dom": "16.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}

@@ -1,20 +1,24 @@
+import CrosswordListGrid from '../containers/CrosswordListGrid';
 import Navbar from '../components/Navbar';
 import React from 'react';
 import styled from 'styled-components';
 import { Col, Grid, Row } from 'react-styled-flexboxgrid';
+import { InnerContainer } from '../styles';
 
 
 const Content = styled.div`
-  padding-top: 3rem;
+  padding-top: 4rem;
 `;
 
 const Index = () => (
   <>
     <Navbar />
     <Content>
-      <Grid fluid>
-        <p>Hello</p>
-      </Grid>
+      <InnerContainer>
+        <Grid fluid>
+          <CrosswordListGrid />
+        </Grid>
+      </InnerContainer>
     </Content>
   </>
 );

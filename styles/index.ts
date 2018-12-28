@@ -54,7 +54,7 @@ const Theme = {
     // Defaults
     gridSize: 12, // columns
     gutterWidth: 1, // rem
-    outerMargin: -3, // rem
+    outerMargin: 0, // rem
     mediaQuery: 'only screen',
     container: {
       sm: 46, // rem
@@ -81,4 +81,17 @@ const Theme = {
   }
 }
 
-export { GlobalStyle, Theme };
+const InnerContainer = styled.div`
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+
+  @media (min-width: 801px) and (max-width: 1199px) {
+    width: 90%;
+  }
+  @media (max-width: 800px) {
+    width: 100%;
+  }
+`;
+
+export { GlobalStyle, Theme, InnerContainer };

@@ -7,51 +7,40 @@ import { Col, Grid, Row } from 'react-styled-flexboxgrid';
 
 const Container = styled.div``;
 
-export default class CrosswordListGrid extends React.Component<{}, {}> {
+interface Crossword {
+  name: string;
+  date: string;
+  index: number;
+}
+
+interface Props {
+  crosswords: Crossword[];
+}
+
+export default class CrosswordListGrid extends React.Component<Props, {}> {
   public render() {
+    let crosswords = this.props.crosswords.map(cw => {
+      return (
+        <Col sm={6} md={4} lg={3}>
+          <CrosswordPreview 
+            name={cw.name}
+            date={cw.date}
+            index={cw.index}
+          />
+        </Col>
+      );
+    });
+
     return (
       <Container>
         <Grid fluid>
           <Row>
-            <Col sm={6} md={4} lg={3}>
-              <CrosswordPreview
-                name="Bids and Bibs"
-                date="Dec. 27, 2018"
-                image={new URL('https://picsum.photos/200')}
-                byline={["John Marish", "Euirim Choi"]}
-                style={{flexGrow:1}}
-              />
-            </Col>
-            <Col sm={6} md={4} lg={3}>
-              <CrosswordPreview
-                name="New World"
-                date="Dec. 27, 2018"
-                image={new URL('https://picsum.photos/200?random')}
-                byline={["John Marish", "Euirim Choi", "Tim Cook"]}
-                style={{flexGrow:1}}
-              />
-            </Col>
-            <Col sm={6} md={4} lg={3}>
-              <CrosswordPreview
-                name="New World"
-                date="Dec. 27, 2018"
-                image={new URL('https://picsum.photos/200?random')}
-                byline={["John Marish"]}
-                style={{flexGrow:1}}
-              />
-            </Col>
-            <Col sm={6} md={4} lg={3}>
-              <CrosswordPreview
-                name="New World"
-                date="Dec. 27, 2018"
-                image={new URL('https://picsum.photos/200?random')}
-                byline={["John Marish"]}
-                style={{flexGrow:1}}
-              />
-            </Col>
+            { crosswords }
           </Row>
         </Grid>
       </Container>
     );
   }
 };
+
+export { Crossword };

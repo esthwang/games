@@ -5,8 +5,7 @@ import styled from 'styled-components';
 interface Props {
   name: string;
   date: string;
-  image: string;
-  byline: [string];
+  index: number;
 }
 
 const Container = styled.div`
@@ -35,8 +34,14 @@ const Body = styled.div`
 `;
 const HeaderContainer = styled.div`
   padding: 0 1rem 0 1rem;
-  border-bottom: 1px solid ${props => props.theme.colors.brightness_80}; 
+  // border-bottom: 1px solid ${props => props.theme.colors.brightness_80}; 
   flex-grow: 0;
+  a {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
 `;
 const Header = styled.h2`
   font-size: 1.5rem;
@@ -60,6 +65,7 @@ const Person = styled.span`
 
 export default class CrosswordPreview extends React.Component<Props, {}> {
   public render() {
+    /*
     let bylineItems: JSX.Element[] = [];
     bylineItems.push(<>By</>);
     for (let i = 0; i < this.props.byline.length; i++) {
@@ -83,15 +89,19 @@ export default class CrosswordPreview extends React.Component<Props, {}> {
         </>
       );
     }
+    */
 
     return (
       <Container>
         <Body>
           <HeaderContainer>
             <Timestamp>{this.props.date}</Timestamp>
-            <Header>{this.props.name}</Header>
+            <Link href={`/?crossword=${this.props.index}`}>
+              <a>
+                <Header>{this.props.name}</Header>
+              </a>
+            </Link>
           </HeaderContainer>
-          <Byline>{bylineItems}</Byline>
         </Body>
       </Container>
     );

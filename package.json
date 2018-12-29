@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The Maroon's crossword page.",
   "main": "index.js",
-  "repository": "https://github.com/euirim/crossword.git",
+  "repository": "https://github.com/chicagomaroon/crossword.git",
   "author": "Euirim Choi <euirim@gmail.com>",
   "license": "MIT",
   "private": true,

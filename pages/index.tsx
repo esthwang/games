@@ -5,6 +5,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Col, Grid, Row } from 'react-styled-flexboxgrid';
 import { InnerContainer } from '../styles';
+import { recordPageview } from '../globals/utils';
 
 
 const Content = styled.div`
@@ -47,6 +48,10 @@ Index.getInitialProps = async function () {
   const cwFiles = await import('../data.json'); 
 
   return { crosswords: processCWFiles(cwFiles.default) };
+}
+
+Index.componentWillMount = function () {
+  recordPageview('/crosswords');
 }
 
 export default Index;

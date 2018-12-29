@@ -6,6 +6,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Col, Grid, Row } from 'react-styled-flexboxgrid';
 import { InnerContainer } from '../styles';
+import { recordPageview } from '../globals/utils';
 import { withRouter } from 'next/router';
 
 
@@ -116,6 +117,10 @@ const Crossword = withRouter((props: Props) => (
 Crossword.getInitialProps = async function ({ req, query }) {
   const cwFiles = await import('../data.json');
   const data = await import(`../crosswords/${cwFiles[query.id]}`);
+  // record pageview if data exists
+  if (data !== undefined) {
+    recordPageview(`/crosswords/${query.id}`);
+  }
 
   return { data: data };
 }

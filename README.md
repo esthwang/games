@@ -18,6 +18,7 @@ The server is hotloading, meaning that it should automatically update upon chang
 YYYY-MM-DD {Crossword Name}.json
 ```
 where the date is day of publication.
+
 3. Add your crossword to the [crosswords](./crosswords) folder.
 4. Add the name of your crossword file to the **end** of the list in [data.json](./data.json).
 

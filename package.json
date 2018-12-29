@@ -1,9 +1,9 @@
 {
-  "name": "crossword",
+  "name": "games",
   "version": "1.0.0",
-  "description": "The Maroon's crossword page.",
+  "description": "The Maroon's games page.",
   "main": "index.js",
-  "repository": "https://github.com/chicagomaroon/crossword.git",
+  "repository": "https://github.com/chicagomaroon/games.git",
   "author": "Euirim Choi <euirim@gmail.com>",
   "license": "MIT",
   "private": true,

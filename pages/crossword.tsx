@@ -1,5 +1,6 @@
 import CW from '@chicagomaroon/react-crossword';
 import dayjs from 'dayjs';
+import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import React from 'react';
 import styled from 'styled-components';
@@ -22,10 +23,6 @@ const HeaderContainer = styled.div`
   @media (max-width: 800px) {
     margin-bottom: 0;
   }
-`;
-const FooterContainer = styled.div`
-  border-top: 1px solid ${props => props.theme.colors.brightness_80};
-  margin-top: 1rem;
 `;
 const Title = styled.h1`
   display: inline;
@@ -112,6 +109,7 @@ const Crossword = withRouter((props: Props) => (
         </Row>
       </Grid>
     </InnerContainer>
+    <Footer />
   </>
 ));
 

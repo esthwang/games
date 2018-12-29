@@ -1,4 +1,5 @@
 import CrosswordListGrid, { CrosswordProps } from '../containers/CrosswordListGrid';
+import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import React from 'react';
 import styled from 'styled-components';
@@ -25,6 +26,7 @@ const Index = (props: Props) => (
         </Grid>
       </InnerContainer>
     </Content>
+    <Footer />
   </>
 );
 

@@ -17,13 +17,15 @@ The server is hotloading, meaning that it should automatically update upon chang
 ```
 YYYY-MM-DD {Crossword Name}.json
 ```
-where the date is day of publication.
+   where the date is day of publication.
 
 3. Add your crossword to the [crosswords](./crosswords) folder.
 4. Add the name of your crossword file to the **end** of the list in [data.json](./data.json).
 
 ## Deployment
-To deploy to GitHub Pages: 
+To deploy to GitHub Pages, you need access to a GitHub account with the permissions to deploy to @chicagomaroon repos. If you do not have permission, please contact the relevant *Maroon* administrator.  
+
+Login via terminal to this GitHub account (you may already be logged in), and then: 
 ```
 yarn deploy
 ```

@@ -65,7 +65,10 @@ export default class CrosswordPreview extends React.Component<Props, {}> {
         <Body>
           <HeaderContainer>
             <Timestamp>{this.props.date}</Timestamp>
-            <Link href={`/crossword?id=${this.props.index}`}>
+            <Link 
+              as={`/crossword/${this.props.index}`} 
+              href={`/crossword?id=${this.props.index}`}
+            >
               <a>
                 <Header>{this.props.name}</Header>
               </a>

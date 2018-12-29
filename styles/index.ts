@@ -54,7 +54,7 @@ const Theme = {
     // Defaults
     gridSize: 12, // columns
     gutterWidth: 1, // rem
-    outerMargin: 0, // rem
+    outerMargin: 1, // rem
     mediaQuery: 'only screen',
     container: {
       sm: 46, // rem
@@ -82,7 +82,7 @@ const Theme = {
 }
 
 const InnerContainer = styled.div`
-  width: 75%;
+  width: 80%;
   margin-left: auto;
   margin-right: auto;
 

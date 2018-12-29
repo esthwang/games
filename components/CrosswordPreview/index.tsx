@@ -56,47 +56,16 @@ const Byline = styled.p`
   font-size: 0.9rem;
   padding: 0 1rem 0 1rem;  
 `;
-const Person = styled.span`
-  color: ${props => props.theme.colors.brightness_50};
-  font-weight: bold;
-  text-transform: uppercase;
-`;
 
 
 export default class CrosswordPreview extends React.Component<Props, {}> {
   public render() {
-    /*
-    let bylineItems: JSX.Element[] = [];
-    bylineItems.push(<>By</>);
-    for (let i = 0; i < this.props.byline.length; i++) {
-      if (i === this.props.byline.length - 1) {
-        bylineItems.push(<Person> {this.props.byline[i]}</Person>);
-        continue
-      }
-
-      let suffix = "";
-      if (this.props.byline.length > 2) {
-        suffix += ",";
-      }
-      if (i === this.props.byline.length - 2) {
-        suffix += " and ";
-      }
-
-      bylineItems.push(
-        <>
-          <Person> {this.props.byline[i]}</Person>
-          {suffix}
-        </>
-      );
-    }
-    */
-
     return (
       <Container>
         <Body>
           <HeaderContainer>
             <Timestamp>{this.props.date}</Timestamp>
-            <Link href={`/?crossword=${this.props.index}`}>
+            <Link href={`/crossword?id=${this.props.index}`}>
               <a>
                 <Header>{this.props.name}</Header>
               </a>

@@ -1,4 +1,4 @@
-import CrosswordListGrid, { Crossword } from '../containers/CrosswordListGrid';
+import CrosswordListGrid, { CrosswordProps } from '../containers/CrosswordListGrid';
 import Navbar from '../components/Navbar';
 import React from 'react';
 import styled from 'styled-components';
@@ -12,7 +12,7 @@ const Content = styled.div`
 
 
 interface Props {
-  crosswords: Crossword[],
+  crosswords: CrosswordProps[],
 }
 
 const Index = (props: Props) => (

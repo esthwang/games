@@ -21,7 +21,7 @@ export default class CrosswordListGrid extends React.Component<Props, {}> {
   public render() {
     let crosswords = this.props.crosswords.map(cw => {
       return (
-        <Col sm={6} md={4} lg={3}>
+        <Col sm={6} md={4} lg={3} key={cw.index}>
           <CrosswordPreview 
             name={cw.name}
             date={cw.date}

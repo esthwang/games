@@ -5,11 +5,15 @@ import styled from 'styled-components';
 const Nav = styled.nav`
   width: 100%;
   position: fixed;
+  z-index: 10000;
   height: 4rem;
   background-color: ${props => props.theme.colors.brightness_100};
   border-bottom: 1px solid ${props => props.theme.colors.brightness_80};
   display: flex;
   justify-content: center;
+  @media (max-width: 800px) {
+    position: absolute;
+  }
 `;
 const NavBrand = styled.a`
   padding-top: 0.7rem;

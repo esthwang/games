@@ -47,6 +47,9 @@ p {
   font-weight: 300;
   font-style: normal;
 }
+a {
+  text-decoration: none;
+}
 `;
 
 const Theme = {

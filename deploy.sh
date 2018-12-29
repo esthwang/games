@@ -3,7 +3,7 @@ next build
 next export 
 touch out/.nojekyll
 touch out/CNAME
-echo "crossword.chicagomaroon.com" >> out/CNAME
+echo "features.chicagomaroon.com" >> out/CNAME
 git add out/ 
 git commit -m "Deploy to gh-pages" 
 git push origin --delete gh-pages

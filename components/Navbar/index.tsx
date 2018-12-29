@@ -36,7 +36,7 @@ export default class Navbar extends React.Component<{}, {}> {
     return (
       <Nav>
         <Link passHref prefetch href="/">
-          <NavBrand>CROSSWORD</NavBrand>
+          <NavBrand>GAMES</NavBrand>
         </Link>
       </Nav>
     );

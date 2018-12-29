@@ -1,4 +1,4 @@
-webpackHotUpdate("static/development/pages/crossword.js",{
+webpackHotUpdate("static/development/pages/index.js",{
 
 /***/ "./components/Navbar/index.tsx":
 /*!*************************************!*\
@@ -41,7 +41,7 @@ function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || func
 var Nav = styled_components__WEBPACK_IMPORTED_MODULE_2__["default"].nav.withConfig({
   displayName: "Navbar__Nav",
   componentId: "sc-1fgi39d-0"
-})(["width:100%;position:fixed;height:4rem;background-color:", ";border-bottom:1px solid ", ";display:flex;justify-content:center;"], function (props) {
+})(["width:100%;position:fixed;z-index:10000;height:4rem;background-color:", ";border-bottom:1px solid ", ";display:flex;justify-content:center;@media (max-width:800px){position:absolute;}"], function (props) {
   return props.theme.colors.brightness_100;
 }, function (props) {
   return props.theme.colors.brightness_80;
@@ -57,14 +57,14 @@ var A = function A(_ref) {
   return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_0___default.a, {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 22
+      lineNumber: 26
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
     className: className,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 23
+      lineNumber: 27
     },
     __self: this
   }, children));
@@ -92,7 +92,7 @@ function (_React$Component) {
       return react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(Nav, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
+          lineNumber: 41
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_0___default.a, {
@@ -101,13 +101,13 @@ function (_React$Component) {
         href: "/",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 38
+          lineNumber: 42
         },
         __self: this
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(NavBrand, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 39
+          lineNumber: 43
         },
         __self: this
       }, "GAMES")));
@@ -122,4 +122,4 @@ function (_React$Component) {
 /***/ })
 
 })
-//# sourceMappingURL=crossword.js.293c350fd9449aba2f3d.hot-update.js.map
+//# sourceMappingURL=index.js.0bf72a61cc9f0ebf7aa9.hot-update.js.map

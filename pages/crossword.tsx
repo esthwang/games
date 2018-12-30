@@ -1,5 +1,5 @@
-import CW from '@chicagomaroon/react-crossword';
 import dayjs from 'dayjs';
+import dynamic from 'next/dynamic';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
 import React from 'react';
@@ -8,6 +8,13 @@ import { Col, Grid, Row } from 'react-styled-flexboxgrid';
 import { InnerContainer } from '../styles';
 import { recordPageview } from '../globals/utils';
 import { withRouter } from 'next/router';
+
+
+// To enable work with static export, as crossword 
+// needs window object.
+const CW = dynamic(import('@chicagomaroon/react-crossword'), {
+  ssr: false
+})
 
 
 interface Props {

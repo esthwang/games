@@ -23,7 +23,11 @@ const Index = (props: Props) => (
     <Content>
       <InnerContainer>
         <Grid fluid>
-          <CrosswordListGrid crosswords={props.crosswords} />
+          <Row>
+            <Col xs={12}>
+              <CrosswordListGrid crosswords={props.crosswords} />
+            </Col>
+          </Row>
         </Grid>
       </InnerContainer>
     </Content>
@@ -40,12 +44,12 @@ function processCWFiles(ls: string[]): Crossword[] {
     let comps = procString.substring(0, procString.length - 5).split(' ');
     let date = comps[0];
     let name = comps.splice(1, comps.length - 1).join(' ');
-    return {name: name, date: date, index: i};
+    return { name: name, date: date, index: i };
   });
 }
 
 Index.getInitialProps = async function () {
-  const cwFiles = await import('../data.json'); 
+  const cwFiles = await import('../data.json');
 
   return { crosswords: processCWFiles(cwFiles.default) };
 }

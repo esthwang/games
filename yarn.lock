@@ -731,7 +731,7 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
-"@chicagomaroon/react-crossword@^1.0.0":
+"@chicagomaroon/react-crossword@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@chicagomaroon/react-crossword/-/react-crossword-1.0.1.tgz#bd7819565e1ef52e22c0b14652e809c21776018f"
   integrity sha512-iL52UR0ZxnLdapScgFkXpriw1XFOB1P8g7UWDY3geEkOamgNUhW4XsaEPiOHYCliOwAYVMSV9yG76hyk6vNejQ==
@@ -3317,6 +3317,11 @@ neo-async@^2.5.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.0.tgz#b9d15e4d71c6762908654b5183ed38b753340835"
   integrity sha512-MFh0d/Wa7vkKO3Y3LlacqAEeHK0mckVqzDieUKTT+KGxi+zIpeVsFxymkIiRpbpDziHc290Xr9A1O4Om7otoRA==
+
+next-seo@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-1.7.0.tgz#73939a705fa0c059ba7a04c01b7645cd1333a104"
+  integrity sha512-DbEMj06d+7HQvzVrs0NIYfrbhJFgb2Emvltbu273QjmMGpTacd/L8wCXD5sWv1PwJda/XtA0Up62GvqEs4xIWg==
 
 next@^7.0.2:
   version "7.0.2"

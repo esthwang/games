@@ -16,10 +16,14 @@ const Nav = styled.nav`
   }
 `;
 const NavBrand = styled.a`
-  padding-top: 0.7rem;
+  padding-top: 0.9rem;
   font-size: 2rem;
   font-weight: bold;
   text-decoration: none;
+
+  img {
+    height: 35px;
+  }
 `;
 const A = ({ className, children }) => {
   return (
@@ -40,7 +44,7 @@ export default class Navbar extends React.Component<{}, {}> {
     return (
       <Nav>
         <Link passHref prefetch href="/">
-          <NavBrand>GAMES</NavBrand>
+          <NavBrand><img src="/static/crossword_logo.png" /></NavBrand>
         </Link>
       </Nav>
     );

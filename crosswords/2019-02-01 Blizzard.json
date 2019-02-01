@@ -1,0 +1,1378 @@
+{
+    "number": 1,
+    "name": "Blizzard",
+    "id": "simple/1",
+    "entries": [
+        {
+            "number": 1,
+            "id": "1-across",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "solution": "ADOBE",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 1,
+            "clue": "Maker of Illustrator and Acrobat",
+            "group": [
+                "1-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 6,
+            "id": "6-across",
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "solution": "HATS",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 6,
+            "clue": "Fedoras and bowlers, for two",
+            "group": [
+                "6-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 10,
+            "id": "10-across",
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "solution": "ELMO",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 10,
+            "clue": "Saint of sailors (or puppets?)",
+            "group": [
+                "10-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 14,
+            "id": "14-across",
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "solution": "PORED",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 14,
+            "clue": "Studied in great detail, with \u201cover\u201d",
+            "group": [
+                "14-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 15,
+            "id": "15-across",
+            "position": {
+                "x": 6,
+                "y": 1
+            },
+            "solution": "OCHO",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 15,
+            "clue": "Eight, in Estapa",
+            "group": [
+                "15-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 16,
+            "id": "16-across",
+            "position": {
+                "x": 11,
+                "y": 1
+            },
+            "solution": "PEAR",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 16,
+            "clue": "Pyrus communis, colloquially",
+            "group": [
+                "16-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 17,
+            "id": "17-across",
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "solution": "STRAW",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 17,
+            "clue": "Word with hat or berry",
+            "group": [
+                "17-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 18,
+            "id": "18-across",
+            "position": {
+                "x": 6,
+                "y": 2
+            },
+            "solution": "PREDICATE",
+            "length": 9,
+            "separatorLocations": {},
+            "humanNumber": 18,
+            "clue": "Base (on)",
+            "group": [
+                "18-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 20,
+            "id": "20-across",
+            "position": {
+                "x": 3,
+                "y": 3
+            },
+            "solution": "RAD",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 20,
+            "clue": "\u201cTubular!\u201d",
+            "group": [
+                "20-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 22,
+            "id": "22-across",
+            "position": {
+                "x": 7,
+                "y": 3
+            },
+            "solution": "ERATO",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 22,
+            "clue": "One of the nine Muses",
+            "group": [
+                "22-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 23,
+            "id": "23-across",
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "solution": "OTCDRUG",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 23,
+            "clue": "Advil or Tylenol, e.g. (Abbr.)",
+            "group": [
+                "23-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 27,
+            "id": "27-across",
+            "position": {
+                "x": 8,
+                "y": 4
+            },
+            "solution": "ECSTASY",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 27,
+            "clue": "Alternate name for MDMA",
+            "group": [
+                "27-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 31,
+            "id": "31-across",
+            "position": {
+                "x": 0,
+                "y": 5
+            },
+            "solution": "AAH",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 31,
+            "clue": "Cry of terror or surprise",
+            "group": [
+                "31-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 32,
+            "id": "32-across",
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "solution": "DIE",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 32,
+            "clue": "Article for Frankfurters and Hamburgers?",
+            "group": [
+                "32-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 33,
+            "id": "33-across",
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "solution": "SUN",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 33,
+            "clue": "Heat source",
+            "group": [
+                "33-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 34,
+            "id": "34-across",
+            "position": {
+                "x": 12,
+                "y": 5
+            },
+            "solution": "IGA",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 34,
+            "clue": "Acronym of a grocery chain",
+            "group": [
+                "34-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 35,
+            "id": "35-across",
+            "position": {
+                "x": 0,
+                "y": 6
+            },
+            "solution": "TIRES",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 35,
+            "clue": "Wearies (of)",
+            "group": [
+                "35-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 37,
+            "id": "37-across",
+            "position": {
+                "x": 6,
+                "y": 6
+            },
+            "solution": "TENPOINTS",
+            "length": 9,
+            "separatorLocations": {},
+            "humanNumber": 37,
+            "clue": "Value of one touchdown + two safeties",
+            "group": [
+                "37-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 40,
+            "id": "40-across",
+            "position": {
+                "x": 2,
+                "y": 7
+            },
+            "solution": "ION",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 40,
+            "clue": "Charged molecule",
+            "group": [
+                "40-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 41,
+            "id": "41-across",
+            "position": {
+                "x": 6,
+                "y": 7
+            },
+            "solution": "SVO",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 41,
+            "clue": "Word order for Malay, Russian, English and others",
+            "group": [
+                "41-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 42,
+            "id": "42-across",
+            "position": {
+                "x": 10,
+                "y": 7
+            },
+            "solution": "WNT",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 42,
+            "clue": "Prevalent signaling pathway",
+            "group": [
+                "42-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 43,
+            "id": "43-across",
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "solution": "WASNOTNEW",
+            "length": 9,
+            "separatorLocations": {},
+            "humanNumber": 43,
+            "clue": "Didn\u2019t change",
+            "group": [
+                "43-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 46,
+            "id": "46-across",
+            "position": {
+                "x": 10,
+                "y": 8
+            },
+            "solution": "OBGYN",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 46,
+            "clue": "Women\u2019s health MD",
+            "group": [
+                "46-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 49,
+            "id": "49-across",
+            "position": {
+                "x": 0,
+                "y": 9
+            },
+            "solution": "EST",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 49,
+            "clue": "Clock setting in New York",
+            "group": [
+                "49-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 50,
+            "id": "50-across",
+            "position": {
+                "x": 4,
+                "y": 9
+            },
+            "solution": "WHO",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 50,
+            "clue": "Global healthcare nonprofit, for short",
+            "group": [
+                "50-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 51,
+            "id": "51-across",
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "solution": "AIR",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 51,
+            "clue": "Element in the Avatar universe",
+            "group": [
+                "51-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 53,
+            "id": "53-across",
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "solution": "OYE",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 53,
+            "clue": "Santana\u2019s \u201c___ Como Va\u201d",
+            "group": [
+                "53-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 54,
+            "id": "54-across",
+            "position": {
+                "x": 0,
+                "y": 10
+            },
+            "solution": "SKIDDAW",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 54,
+            "clue": "Sixth-highest peak in England",
+            "group": [
+                "54-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 56,
+            "id": "56-across",
+            "position": {
+                "x": 8,
+                "y": 10
+            },
+            "solution": "YANGTZE",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 56,
+            "clue": "Longest river in China",
+            "group": [
+                "56-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 58,
+            "id": "58-across",
+            "position": {
+                "x": 3,
+                "y": 11
+            },
+            "solution": "LETHE",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 58,
+            "clue": "Underworld river of forgetfulness",
+            "group": [
+                "58-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 60,
+            "id": "60-across",
+            "position": {
+                "x": 9,
+                "y": 11
+            },
+            "solution": "MEH",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 60,
+            "clue": "Just okay",
+            "group": [
+                "60-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 61,
+            "id": "61-across",
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "solution": "GELINSERT",
+            "length": 9,
+            "separatorLocations": {},
+            "humanNumber": 61,
+            "clue": "Dr. Scholl\u2019s product",
+            "group": [
+                "61-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 65,
+            "id": "65-across",
+            "position": {
+                "x": 10,
+                "y": 12
+            },
+            "solution": "VALUE",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 65,
+            "clue": "Worth",
+            "group": [
+                "65-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 69,
+            "id": "69-across",
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "solution": "ALES",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 69,
+            "clue": "Pub staples",
+            "group": [
+                "69-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 70,
+            "id": "70-across",
+            "position": {
+                "x": 5,
+                "y": 13
+            },
+            "solution": "IRAN",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 70,
+            "clue": "Modern-day location of Persia",
+            "group": [
+                "70-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 71,
+            "id": "71-across",
+            "position": {
+                "x": 10,
+                "y": 13
+            },
+            "solution": "ENEMY",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 71,
+            "clue": "The \u201cthem\u201d in \u201cus and them\u201d",
+            "group": [
+                "71-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 72,
+            "id": "72-across",
+            "position": {
+                "x": 0,
+                "y": 14
+            },
+            "solution": "LOST",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 72,
+            "clue": "What the Patriots did vis-\u00e0-vis the Eagles, in Superbowl LII",
+            "group": [
+                "72-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 73,
+            "id": "73-across",
+            "position": {
+                "x": 5,
+                "y": 14
+            },
+            "solution": "TEST",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 73,
+            "clue": "Exam",
+            "group": [
+                "73-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 74,
+            "id": "74-across",
+            "position": {
+                "x": 10,
+                "y": 14
+            },
+            "solution": "RAISE",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 74,
+            "clue": "What underpaid employees want",
+            "group": [
+                "74-across"
+            ],
+            "direction": "across"
+        },
+        {
+            "number": 1,
+            "id": "1-down",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "solution": "APS",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 1,
+            "clue": "Exams for H.S. students",
+            "group": [
+                "1-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 2,
+            "id": "2-down",
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "solution": "DOT",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 2,
+            "clue": "Shape used by George Seurat and Chuck Close",
+            "group": [
+                "2-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 3,
+            "id": "3-down",
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "solution": "ORR",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 3,
+            "clue": "Bruin of yore",
+            "group": [
+                "3-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 4,
+            "id": "4-down",
+            "position": {
+                "x": 3,
+                "y": 0
+            },
+            "solution": "BEARD",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 4,
+            "clue": "Neck warmer?",
+            "group": [
+                "4-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 5,
+            "id": "5-down",
+            "position": {
+                "x": 4,
+                "y": 0
+            },
+            "solution": "EDWARDSNOWDEN",
+            "length": 13,
+            "separatorLocations": {},
+            "humanNumber": 5,
+            "clue": "Wikileaks orchestrator",
+            "group": [
+                "5-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 6,
+            "id": "6-down",
+            "position": {
+                "x": 6,
+                "y": 0
+            },
+            "solution": "HOP",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 6,
+            "clue": "Necessary ingredient in beer",
+            "group": [
+                "6-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 7,
+            "id": "7-down",
+            "position": {
+                "x": 7,
+                "y": 0
+            },
+            "solution": "ACRE",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 7,
+            "clue": "43,560 square feet",
+            "group": [
+                "7-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 8,
+            "id": "8-down",
+            "position": {
+                "x": 8,
+                "y": 0
+            },
+            "solution": "THERESNOWAY",
+            "length": 11,
+            "separatorLocations": {},
+            "humanNumber": 8,
+            "clue": "\u201cIt\u2019s impossible\u201d",
+            "group": [
+                "8-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 9,
+            "id": "9-down",
+            "position": {
+                "x": 9,
+                "y": 0
+            },
+            "solution": "SODACUP",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 9,
+            "clue": "Receptacle for Coca Cola or Sprite",
+            "group": [
+                "9-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 10,
+            "id": "10-down",
+            "position": {
+                "x": 11,
+                "y": 0
+            },
+            "solution": "EPCOT",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 10,
+            "clue": "Disney theme park",
+            "group": [
+                "10-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 11,
+            "id": "11-down",
+            "position": {
+                "x": 12,
+                "y": 0
+            },
+            "solution": "LEA",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 11,
+            "clue": "Bucolic meadow",
+            "group": [
+                "11-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 12,
+            "id": "12-down",
+            "position": {
+                "x": 13,
+                "y": 0
+            },
+            "solution": "MAT",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 12,
+            "clue": "Need for yoga or wrestling",
+            "group": [
+                "12-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 13,
+            "id": "13-down",
+            "position": {
+                "x": 14,
+                "y": 0
+            },
+            "solution": "ORE",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 13,
+            "clue": "Homophone of 3-Down",
+            "group": [
+                "13-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 19,
+            "id": "19-down",
+            "position": {
+                "x": 10,
+                "y": 2
+            },
+            "solution": "ITSNOWORNEVER",
+            "length": 13,
+            "separatorLocations": {},
+            "humanNumber": 19,
+            "clue": "\u201cWe have to do this immediately!\u201d",
+            "group": [
+                "19-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 21,
+            "id": "21-down",
+            "position": {
+                "x": 5,
+                "y": 3
+            },
+            "solution": "DUI",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 21,
+            "clue": "Substance-related infraction",
+            "group": [
+                "21-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 23,
+            "id": "23-down",
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "solution": "OAT",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 23,
+            "clue": "Food for horses",
+            "group": [
+                "23-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 24,
+            "id": "24-down",
+            "position": {
+                "x": 1,
+                "y": 4
+            },
+            "solution": "TAI",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 24,
+            "clue": "___ chi",
+            "group": [
+                "24-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 25,
+            "id": "25-down",
+            "position": {
+                "x": 2,
+                "y": 4
+            },
+            "solution": "CHRISTI",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 25,
+            "clue": "Corpus ___",
+            "group": [
+                "25-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 26,
+            "id": "26-down",
+            "position": {
+                "x": 6,
+                "y": 4
+            },
+            "solution": "GETSNOWHERE",
+            "length": 11,
+            "separatorLocations": {},
+            "humanNumber": 26,
+            "clue": "Doesn\u2019t make progress",
+            "group": [
+                "26-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 28,
+            "id": "28-down",
+            "position": {
+                "x": 12,
+                "y": 4
+            },
+            "solution": "AINTGOT",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 28,
+            "clue": "1968 Nina Simone refrain, with \u201cno\u201d",
+            "group": [
+                "28-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 29,
+            "id": "29-down",
+            "position": {
+                "x": 13,
+                "y": 4
+            },
+            "solution": "SGT",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 29,
+            "clue": "Rank between Maj. and Cpl.",
+            "group": [
+                "29-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 30,
+            "id": "30-down",
+            "position": {
+                "x": 14,
+                "y": 4
+            },
+            "solution": "YAS",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 30,
+            "clue": "Modern word of encouragement",
+            "group": [
+                "30-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 36,
+            "id": "36-down",
+            "position": {
+                "x": 3,
+                "y": 6
+            },
+            "solution": "EON",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 36,
+            "clue": "Significant stretch of time",
+            "group": [
+                "36-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 38,
+            "id": "38-down",
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "solution": "EVE",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 38,
+            "clue": "Night before a big day",
+            "group": [
+                "38-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 39,
+            "id": "39-down",
+            "position": {
+                "x": 11,
+                "y": 6
+            },
+            "solution": "INB",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 39,
+            "clue": "Like Dvor\u00e1k\u2019s Nocturne, musically",
+            "group": [
+                "39-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 43,
+            "id": "43-down",
+            "position": {
+                "x": 0,
+                "y": 8
+            },
+            "solution": "WES",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 43,
+            "clue": "Director Anderson",
+            "group": [
+                "43-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 44,
+            "id": "44-down",
+            "position": {
+                "x": 1,
+                "y": 8
+            },
+            "solution": "ASK",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 44,
+            "clue": "Inquire",
+            "group": [
+                "44-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 45,
+            "id": "45-down",
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "solution": "THATSIT",
+            "length": 7,
+            "separatorLocations": {},
+            "humanNumber": 45,
+            "clue": "\u201cEnough already!\u201d",
+            "group": [
+                "45-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 47,
+            "id": "47-down",
+            "position": {
+                "x": 13,
+                "y": 8
+            },
+            "solution": "YYZ",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 47,
+            "clue": "Toronto\u2019s airport code, or song by a band of the same origin",
+            "group": [
+                "47-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 48,
+            "id": "48-down",
+            "position": {
+                "x": 14,
+                "y": 8
+            },
+            "solution": "NEE",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 48,
+            "clue": "Word in wedding but not birth announcements, ironically",
+            "group": [
+                "48-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 52,
+            "id": "52-down",
+            "position": {
+                "x": 9,
+                "y": 9
+            },
+            "solution": "IAM",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 52,
+            "clue": "\u201cI think, therefore ___\u201d",
+            "group": [
+                "52-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 55,
+            "id": "55-down",
+            "position": {
+                "x": 3,
+                "y": 10
+            },
+            "solution": "DLIST",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 55,
+            "clue": "Decidely non-VIP celebrities",
+            "group": [
+                "55-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 57,
+            "id": "57-down",
+            "position": {
+                "x": 11,
+                "y": 10
+            },
+            "solution": "GHANA",
+            "length": 5,
+            "separatorLocations": {},
+            "humanNumber": 57,
+            "clue": "Its capital is Accra",
+            "group": [
+                "57-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 59,
+            "id": "59-down",
+            "position": {
+                "x": 7,
+                "y": 11
+            },
+            "solution": "ERAS",
+            "length": 4,
+            "separatorLocations": {},
+            "humanNumber": 59,
+            "clue": "Significant stretches of time",
+            "group": [
+                "59-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 61,
+            "id": "61-down",
+            "position": {
+                "x": 0,
+                "y": 12
+            },
+            "solution": "GAL",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 61,
+            "clue": "Lady, out West",
+            "group": [
+                "61-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 62,
+            "id": "62-down",
+            "position": {
+                "x": 1,
+                "y": 12
+            },
+            "solution": "ELO",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 62,
+            "clue": "\u201cTelephone Line\u201d band",
+            "group": [
+                "62-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 63,
+            "id": "63-down",
+            "position": {
+                "x": 2,
+                "y": 12
+            },
+            "solution": "LES",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 63,
+            "clue": "French counterpart of 32-Across",
+            "group": [
+                "63-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 64,
+            "id": "64-down",
+            "position": {
+                "x": 8,
+                "y": 12
+            },
+            "solution": "TNT",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 64,
+            "clue": "It\u2019s explosive",
+            "group": [
+                "64-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 66,
+            "id": "66-down",
+            "position": {
+                "x": 12,
+                "y": 12
+            },
+            "solution": "LEI",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 66,
+            "clue": "Luau adornment",
+            "group": [
+                "66-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 67,
+            "id": "67-down",
+            "position": {
+                "x": 13,
+                "y": 12
+            },
+            "solution": "UMS",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 67,
+            "clue": "Sentence fillers",
+            "group": [
+                "67-down"
+            ],
+            "direction": "down"
+        },
+        {
+            "number": 68,
+            "id": "68-down",
+            "position": {
+                "x": 14,
+                "y": 12
+            },
+            "solution": "EYE",
+            "length": 3,
+            "separatorLocations": {},
+            "humanNumber": 68,
+            "clue": "Ogle",
+            "group": [
+                "68-down"
+            ],
+            "direction": "down"
+        }
+    ],
+    "byline": [
+        "Ruby Schnirman"
+    ],
+    "crosswordType": "quick",
+    "dimensions": {
+        "rows": 15,
+        "cols": 15
+    },
+    "date": 1542326400000,
+    "solutionAvailable": true,
+    "dateSolutionAvailable": 1542326400000
+}

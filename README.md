@@ -12,7 +12,7 @@
 The server is hotloading, meaning that it should automatically update upon changes made to the code. If this doesn't work, try the standard page refresh.
 
 ## Adding crosswords
-1. Convert your crossword to a JSON file in the format defined by the [example file](./examples/crosswords/2018-12-30&#32;Test&#32;1.json).
+1. Convert your crossword to a JSON file in the format defined by the [example file](./examples/crosswords/2018-12-30&#32;Test&#32;1.json). Note: the entries must be in increasing numeric order.
 2. Name your crossword in the following format: 
 ```
 YYYY-MM-DD {Crossword Name}.json

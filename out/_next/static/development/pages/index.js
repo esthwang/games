@@ -15323,17 +15323,30 @@ var Index = function Index(props) {
       lineNumber: 25
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_containers_CrosswordListGrid__WEBPACK_IMPORTED_MODULE_1__["default"], {
-    crosswords: props.crosswords,
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_styled_flexboxgrid__WEBPACK_IMPORTED_MODULE_6__["Row"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     },
     __self: this
-  })))), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(react_styled_flexboxgrid__WEBPACK_IMPORTED_MODULE_6__["Col"], {
+    xs: 12,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 27
+    },
+    __self: this
+  }, react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_containers_CrosswordListGrid__WEBPACK_IMPORTED_MODULE_1__["default"], {
+    crosswords: props.crosswords,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 28
+    },
+    __self: this
+  })))))), react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(_components_Footer__WEBPACK_IMPORTED_MODULE_2__["default"], {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 34
     },
     __self: this
   }));

@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "@chicagomaroon/react-crossword": "^1.0.1",
+    "@chicagomaroon/react-crossword": "^1.0.3",
     "@types/glob": "^7.1.1",
     "@types/next": "^7.0.6",
     "@types/styled-components": "^4.1.4",

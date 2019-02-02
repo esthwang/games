@@ -29,7 +29,7 @@ const Footer = () => (
       <Grid fluid>
         <Row>
           <Col xs={12}>
-            <Copyright>&copy; 2018 The Chicago Maroon</Copyright>
+            <Copyright>&copy; 2019-Present The Chicago Maroon</Copyright>
             <Website><a href="https://chicagomaroon.com">Go to www.chicagomaroon.com</a></Website>
           </Col>
         </Row>

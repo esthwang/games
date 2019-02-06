@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{257:function(n){n.exports=["2019-02-01 Blizzard.json"]}}]);

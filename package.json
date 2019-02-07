@@ -7,7 +7,6 @@
   "author": "Euirim Choi <euirim@gmail.com>",
   "license": "MIT",
   "private": true,
-  "homepage": "https://games.chicagomaroon.com",
   "dependencies": {
     "@chicagomaroon/react-crossword": "^1.0.5",
     "@types/glob": "^7.1.1",

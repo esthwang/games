@@ -3,8 +3,8 @@
         "Chris Jones"
     ],
     "crosswordType": "quick",
-    "date": 1554289200000,
-    "dateSolutionAvailable": 1554289200000,
+    "date": 1554894000000,
+    "dateSolutionAvailable": 1554894000000,
     "dimensions": {
         "cols": 11,
         "rows": 11
@@ -538,7 +538,7 @@
             "solution": "CER"
         },
         {
-            "clue": "Subjects of the 2013 documentary <i>Blackfish</i>",
+            "clue": "Subjects of the 2013 documentary Blackfish",
             "direction": "down",
             "group": [
                 "16-down"

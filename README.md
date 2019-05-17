@@ -23,11 +23,4 @@ YYYY-MM-DD {Crossword Name}.json
 4. Add the name of your crossword file to the **end** of the list in [data.json](./data.json).
 
 ## Deployment
-To deploy to GitHub Pages, you need access to a GitHub account with the permissions to deploy to @chicagomaroon repos. If you do not have permission, please contact the relevant *Maroon* administrator.  
-
-Login via terminal to this GitHub account (you may already be logged in), and then: 
-```
-yarn deploy
-```
-
-The command triggers a next.js build and exports the site as static files to the `out` directory. This directory is then pushed to the gh-pages branch of this repo, which GitHub Pages serves.
+To deploy to Netlify, simply commit to the remote repository. Upon commit, Netlify will run `yarn build && yarn export` and host the site using the outputted `out` folder.

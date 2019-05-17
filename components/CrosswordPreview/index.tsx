@@ -15,20 +15,6 @@ const Container = styled.div`
   flex-direction: column;
   height: 100%;
 `;
-/*j
-const ImageContainer = styled.div`
-  width: 100%;
-  border-bottom: 1px solid ${props => props.theme.colors.brightness_80}; 
-  flex-grow: 0;
-`;
-const Image = styled.img`
-  display: block;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-`;
-*/
 const Body = styled.div`
   text-align: center;
 `;

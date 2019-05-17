@@ -1,6 +1,6 @@
 import Document, { Head, Main, NextScript } from 'next/document';
 import React from 'react';
-
+import { GlobalStyle } from '../styles';
 
 export default class MyDocument extends Document {
   static async getInitialProps(ctx: any) {
@@ -22,6 +22,7 @@ export default class MyDocument extends Document {
 
         <body>
           <Main />
+          <GlobalStyle />
           <NextScript />
         </body>
       </html>

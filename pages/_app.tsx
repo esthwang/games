@@ -2,7 +2,7 @@ import App from 'next/app';
 import NextSeo from 'next-seo';
 import React from 'react';
 import SEO from '../next-seo.config';
-import { Theme } from '../styles';
+import { GlobalStyle, Theme } from '../styles';
 import { ThemeProvider } from 'styled-components';
 
 
@@ -14,6 +14,7 @@ export default class MyApp extends App {
         <ThemeProvider theme={Theme}>
           <Component {...pageProps} />
         </ThemeProvider>
+        <GlobalStyle />
         <NextSeo config={SEO} />
       </>
     );

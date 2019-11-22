@@ -9,7 +9,7 @@
   "private": true,
   "homepage": "https://chicagomaroon.github.io/games.git.io/",
   "dependencies": {
-    "@chicagomaroon/react-crossword": "^1.0.5",
+    "@chicagomaroon/react-crossword": "^1.0.6",
     "@types/glob": "^7.1.1",
     "@types/next": "^7.0.9",
     "@types/styled-components": "^4.4.0",

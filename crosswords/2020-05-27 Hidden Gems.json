@@ -3,355 +3,338 @@
         "Chris Jones"
     ],
     "crosswordType": "quick",
-    "date": 1587553200000,
-    "dateSolutionAvailable": 1587553200000,
+    "date": 1590577200000,
+    "dateSolutionAvailable": 1590577200000,
     "dimensions": {
         "cols": 15,
         "rows": 15
     },
     "entries": [
         {
-            "clue": "GCD\u2019s dual",
+            "clue": "Center",
             "direction": "across",
             "group": [
                 "1-across"
             ],
             "humanNumber": 1,
             "id": "1-across",
-            "length": 3,
+            "length": 5,
             "number": 1,
             "position": {
                 "x": 0,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "LCM"
+            "solution": "MIDST"
         },
         {
-            "clue": "Decrees",
+            "clue": "Half of a Shakespearean inquiry",
             "direction": "across",
             "group": [
-                "4-across"
+                "6-across"
             ],
-            "humanNumber": 4,
-            "id": "4-across",
-            "length": 5,
-            "number": 4,
+            "humanNumber": 6,
+            "id": "6-across",
+            "length": 4,
+            "number": 6,
             "position": {
-                "x": 4,
+                "x": 6,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "FIATS"
+            "solution": "TOBE"
         },
         {
-            "clue": "Henry VIII, for one",
+            "clue": "One of the hidden words",
             "direction": "across",
             "group": [
-                "9-across"
+                "10-across"
             ],
-            "humanNumber": 9,
-            "id": "9-across",
-            "length": 5,
-            "number": 9,
+            "humanNumber": 10,
+            "id": "10-across",
+            "length": 4,
+            "number": 10,
             "position": {
-                "x": 10,
+                "x": 11,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "TUDOR"
+            "solution": "OPAL"
         },
         {
-            "clue": "\u201cAre you a man ___ mouse?\u201d",
+            "clue": "Building material",
             "direction": "across",
             "group": [
                 "14-across"
             ],
             "humanNumber": 14,
             "id": "14-across",
-            "length": 3,
+            "length": 5,
             "number": 14,
             "position": {
                 "x": 0,
                 "y": 1
             },
             "separatorLocations": {},
-            "solution": "ORA"
+            "solution": "ADOBE"
         },
         {
-            "clue": "In Japanese it\u2019s transliterated as \u201chakushon\u201d",
+            "clue": "State of France",
             "direction": "across",
             "group": [
                 "15-across"
             ],
             "humanNumber": 15,
             "id": "15-across",
-            "length": 5,
+            "length": 4,
             "number": 15,
             "position": {
-                "x": 4,
+                "x": 6,
                 "y": 1
             },
             "separatorLocations": {},
-            "solution": "ACHOO"
+            "solution": "ETAT"
         },
         {
-            "clue": "Manga\u2019s sibling",
+            "clue": "Feeling it",
             "direction": "across",
             "group": [
                 "16-across"
             ],
             "humanNumber": 16,
             "id": "16-across",
-            "length": 5,
+            "length": 4,
             "number": 16,
             "position": {
-                "x": 10,
+                "x": 11,
                 "y": 1
             },
             "separatorLocations": {},
-            "solution": "ANIME"
+            "solution": "SORE"
         },
         {
-            "clue": "Suavity, congeniality, etc.",
+            "clue": "\"Made to touch your senses\" smartphone",
             "direction": "across",
             "group": [
                 "17-across"
             ],
             "humanNumber": 17,
             "id": "17-across",
-            "length": 9,
+            "length": 10,
             "number": 17,
             "position": {
                 "x": 0,
                 "y": 2
             },
             "separatorLocations": {},
-            "solution": "WARMCHARM"
+            "solution": "SONYXPERIA"
         },
         {
-            "clue": "Queens\u2019 homes",
+            "clue": "Body double?",
             "direction": "across",
             "group": [
                 "19-across"
             ],
             "humanNumber": 19,
             "id": "19-across",
-            "length": 5,
+            "length": 4,
             "number": 19,
             "position": {
-                "x": 10,
+                "x": 11,
                 "y": 2
             },
             "separatorLocations": {},
-            "solution": "HIVES"
+            "solution": "TWIN"
         },
         {
-            "clue": "Mike holder",
+            "clue": "Pub offerings",
             "direction": "across",
             "group": [
                 "20-across"
             ],
             "humanNumber": 20,
             "id": "20-across",
-            "length": 5,
+            "length": 4,
             "number": 20,
             "position": {
                 "x": 0,
                 "y": 3
             },
             "separatorLocations": {},
-            "solution": "EMCEE"
+            "solution": "ALES"
         },
         {
-            "clue": "Fat meas.",
+            "clue": "Apple product from 2001",
             "direction": "across",
             "group": [
                 "21-across"
             ],
             "humanNumber": 21,
             "id": "21-across",
-            "length": 3,
+            "length": 4,
             "number": 21,
             "position": {
-                "x": 8,
+                "x": 5,
                 "y": 3
             },
             "separatorLocations": {},
-            "solution": "BMI"
+            "solution": "IPOD"
         },
         {
-            "clue": "Tolkien creature",
+            "clue": "Primp",
+            "direction": "across",
+            "group": [
+                "22-across"
+            ],
+            "humanNumber": 22,
+            "id": "22-across",
+            "length": 5,
+            "number": 22,
+            "position": {
+                "x": 10,
+                "y": 3
+            },
+            "separatorLocations": {},
+            "solution": "PREEN"
+        },
+        {
+            "clue": "Gets the worm, say",
             "direction": "across",
             "group": [
                 "23-across"
             ],
             "humanNumber": 23,
             "id": "23-across",
-            "length": 3,
+            "length": 12,
             "number": 23,
             "position": {
-                "x": 12,
-                "y": 3
-            },
-            "separatorLocations": {},
-            "solution": "ENT"
-        },
-        {
-            "clue": "Maroon section",
-            "direction": "across",
-            "group": [
-                "24-across"
-            ],
-            "humanNumber": 24,
-            "id": "24-across",
-            "length": 6,
-            "number": 24,
-            "position": {
-                "x": 0,
+                "x": 3,
                 "y": 4
             },
             "separatorLocations": {},
-            "solution": "SPORTS"
+            "solution": "WAKESUPEARLY"
         },
         {
-            "clue": "Stingier",
+            "clue": "ATM transaction",
             "direction": "across",
             "group": [
                 "26-across"
             ],
             "humanNumber": 26,
             "id": "26-across",
-            "length": 6,
+            "length": 3,
             "number": 26,
             "position": {
-                "x": 7,
-                "y": 4
-            },
-            "separatorLocations": {},
-            "solution": "MEANER"
-        },
-        {
-            "clue": "Ed Sheeran, for one",
-            "direction": "across",
-            "group": [
-                "28-across"
-            ],
-            "humanNumber": 28,
-            "id": "28-across",
-            "length": 12,
-            "number": 28,
-            "position": {
-                "x": 3,
+                "x": 0,
                 "y": 5
             },
             "separatorLocations": {},
-            "solution": "GINGERSINGER"
+            "solution": "DEP"
         },
         {
-            "clue": "Leviathan",
+            "clue": "Carly ___ Jepsen",
             "direction": "across",
             "group": [
-                "32-across"
+                "29-across"
             ],
-            "humanNumber": 32,
-            "id": "32-across",
-            "length": 8,
-            "number": 32,
+            "humanNumber": 29,
+            "id": "29-across",
+            "length": 3,
+            "number": 29,
+            "position": {
+                "x": 4,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "RAE"
+        },
+        {
+            "clue": "\"I think...\", in texts",
+            "direction": "across",
+            "group": [
+                "30-across"
+            ],
+            "humanNumber": 30,
+            "id": "30-across",
+            "length": 4,
+            "number": 30,
+            "position": {
+                "x": 8,
+                "y": 5
+            },
+            "separatorLocations": {},
+            "solution": "IIRC"
+        },
+        {
+            "clue": "Beachy cruise destination",
+            "direction": "across",
+            "group": [
+                "31-across"
+            ],
+            "humanNumber": 31,
+            "id": "31-across",
+            "length": 5,
+            "number": 31,
             "position": {
                 "x": 0,
                 "y": 6
             },
             "separatorLocations": {},
-            "solution": "BEHEMOTH"
+            "solution": "ARUBA"
         },
         {
-            "clue": "Turn down",
+            "clue": "Place to tuck in",
             "direction": "across",
             "group": [
-                "35-across"
+                "33-across"
             ],
-            "humanNumber": 35,
-            "id": "35-across",
+            "humanNumber": 33,
+            "id": "33-across",
+            "length": 3,
+            "number": 33,
+            "position": {
+                "x": 7,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "INN"
+        },
+        {
+            "clue": "The Bean for Chicago, for example",
+            "direction": "across",
+            "group": [
+                "34-across"
+            ],
+            "humanNumber": 34,
+            "id": "34-across",
             "length": 4,
-            "number": 35,
+            "number": 34,
             "position": {
                 "x": 11,
                 "y": 6
             },
             "separatorLocations": {},
-            "solution": "DENY"
+            "solution": "ICON"
         },
         {
-            "clue": "Brewery product",
-            "direction": "across",
-            "group": [
-                "36-across"
-            ],
-            "humanNumber": 36,
-            "id": "36-across",
-            "length": 3,
-            "number": 36,
-            "position": {
-                "x": 0,
-                "y": 7
-            },
-            "separatorLocations": {},
-            "solution": "ALE"
-        },
-        {
-            "clue": "It can be prepared in at least ten different ways",
-            "direction": "across",
-            "group": [
-                "37-across"
-            ],
-            "humanNumber": 37,
-            "id": "37-across",
-            "length": 3,
-            "number": 37,
-            "position": {
-                "x": 4,
-                "y": 7
-            },
-            "separatorLocations": {},
-            "solution": "EGG"
-        },
-        {
-            "clue": "Be in debt",
+            "clue": "Gun-slingin', justice-bringin' hero of old Westerns",
             "direction": "across",
             "group": [
                 "38-across"
             ],
             "humanNumber": 38,
             "id": "38-across",
-            "length": 3,
+            "length": 15,
             "number": 38,
             "position": {
-                "x": 8,
+                "x": 0,
                 "y": 7
             },
             "separatorLocations": {},
-            "solution": "OWE"
+            "solution": "HOPALONGCASSIDY"
         },
         {
-            "clue": "Ken Ham\u2019s debate opponent",
-            "direction": "across",
-            "group": [
-                "41-across"
-            ],
-            "humanNumber": 41,
-            "id": "41-across",
-            "length": 3,
-            "number": 41,
-            "position": {
-                "x": 12,
-                "y": 7
-            },
-            "separatorLocations": {},
-            "solution": "NYE"
-        },
-        {
-            "clue": "Tales and such",
+            "clue": "Exam for a would-be attorney",
             "direction": "across",
             "group": [
                 "42-across"
@@ -365,180 +348,231 @@
                 "y": 8
             },
             "separatorLocations": {},
-            "solution": "LORE"
+            "solution": "LSAT"
         },
         {
-            "clue": "Dignity, as of President Zimmer",
+            "clue": "Part of many German names",
+            "direction": "across",
+            "group": [
+                "43-across"
+            ],
+            "humanNumber": 43,
+            "id": "43-across",
+            "length": 3,
+            "number": 43,
+            "position": {
+                "x": 5,
+                "y": 8
+            },
+            "separatorLocations": {},
+            "solution": "VON"
+        },
+        {
+            "clue": "Goes (to)",
             "direction": "across",
             "group": [
                 "44-across"
             ],
             "humanNumber": 44,
             "id": "44-across",
-            "length": 8,
+            "length": 5,
             "number": 44,
             "position": {
-                "x": 7,
+                "x": 10,
                 "y": 8
             },
             "separatorLocations": {},
-            "solution": "GRAVITAS"
+            "solution": "HEADS"
         },
         {
-            "clue": "Trash from the Reg?",
+            "clue": "Narrow opening",
             "direction": "across",
             "group": [
-                "46-across"
+                "45-across"
             ],
-            "humanNumber": 46,
-            "id": "46-across",
-            "length": 12,
-            "number": 46,
+            "humanNumber": 45,
+            "id": "45-across",
+            "length": 4,
+            "number": 45,
             "position": {
-                "x": 0,
+                "x": 3,
                 "y": 9
             },
             "separatorLocations": {},
-            "solution": "LIBRISDEBRIS"
+            "solution": "SLIT"
         },
         {
-            "clue": "One playing at Progressive Field",
+            "clue": "Common A.P. class",
+            "direction": "across",
+            "group": [
+                "47-across"
+            ],
+            "humanNumber": 47,
+            "id": "47-across",
+            "length": 3,
+            "number": 47,
+            "position": {
+                "x": 8,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "BIO"
+        },
+        {
+            "clue": "Sweet finish?",
+            "direction": "across",
+            "group": [
+                "49-across"
+            ],
+            "humanNumber": 49,
+            "id": "49-across",
+            "length": 3,
+            "number": 49,
+            "position": {
+                "x": 12,
+                "y": 9
+            },
+            "separatorLocations": {},
+            "solution": "OSE"
+        },
+        {
+            "clue": "Microsoft project manager behind Comic Sans",
             "direction": "across",
             "group": [
                 "50-across"
             ],
             "humanNumber": 50,
             "id": "50-across",
-            "length": 6,
+            "length": 12,
             "number": 50,
             "position": {
-                "x": 2,
+                "x": 0,
                 "y": 10
             },
             "separatorLocations": {},
-            "solution": "INDIAN"
+            "solution": "MELINDAGATES"
         },
         {
-            "clue": "Billy __ (2000 film)",
-            "direction": "across",
-            "group": [
-                "51-across"
-            ],
-            "humanNumber": 51,
-            "id": "51-across",
-            "length": 6,
-            "number": 51,
-            "position": {
-                "x": 9,
-                "y": 10
-            },
-            "separatorLocations": {},
-            "solution": "ELLIOT"
-        },
-        {
-            "clue": "CXXI times V",
+            "clue": "Actor Yankovsky and designer Cassini",
             "direction": "across",
             "group": [
                 "55-across"
             ],
             "humanNumber": 55,
             "id": "55-across",
-            "length": 3,
+            "length": 5,
             "number": 55,
             "position": {
                 "x": 0,
                 "y": 11
             },
             "separatorLocations": {},
-            "solution": "DCV"
+            "solution": "OLEGS"
         },
         {
-            "clue": "Spam holder",
+            "clue": "H.S. groups with a Secretary-General",
+            "direction": "across",
+            "group": [
+                "56-across"
+            ],
+            "humanNumber": 56,
+            "id": "56-across",
+            "length": 4,
+            "number": 56,
+            "position": {
+                "x": 6,
+                "y": 11
+            },
+            "separatorLocations": {},
+            "solution": "MUNS"
+        },
+        {
+            "clue": "Like some orders",
             "direction": "across",
             "group": [
                 "57-across"
             ],
             "humanNumber": 57,
             "id": "57-across",
-            "length": 3,
+            "length": 4,
             "number": 57,
             "position": {
-                "x": 4,
+                "x": 11,
                 "y": 11
             },
             "separatorLocations": {},
-            "solution": "CAN"
+            "solution": "TOGO"
         },
         {
-            "clue": "\u201cThe Metamorphosis\u201d character",
-            "direction": "across",
-            "group": [
-                "58-across"
-            ],
-            "humanNumber": 58,
-            "id": "58-across",
-            "length": 5,
-            "number": 58,
-            "position": {
-                "x": 10,
-                "y": 11
-            },
-            "separatorLocations": {},
-            "solution": "SAMSA"
-        },
-        {
-            "clue": "Pok\u00e9mon Sun region",
-            "direction": "across",
-            "group": [
-                "59-across"
-            ],
-            "humanNumber": 59,
-            "id": "59-across",
-            "length": 5,
-            "number": 59,
-            "position": {
-                "x": 0,
-                "y": 12
-            },
-            "separatorLocations": {},
-            "solution": "ALOLA"
-        },
-        {
-            "clue": "What you want from the local butcher?",
+            "clue": "Extended family",
             "direction": "across",
             "group": [
                 "61-across"
             ],
             "humanNumber": 61,
             "id": "61-across",
-            "length": 9,
+            "length": 4,
             "number": 61,
             "position": {
-                "x": 6,
+                "x": 0,
                 "y": 12
             },
             "separatorLocations": {},
-            "solution": "GREATMEAT"
+            "solution": "CLAN"
         },
         {
-            "clue": "Not as common",
+            "clue": "Danger hidden in some occultism, purportedly",
+            "direction": "across",
+            "group": [
+                "62-across"
+            ],
+            "humanNumber": 62,
+            "id": "62-across",
+            "length": 10,
+            "number": 62,
+            "position": {
+                "x": 5,
+                "y": 12
+            },
+            "separatorLocations": {},
+            "solution": "OUIJADEMON"
+        },
+        {
+            "clue": "\"For ___ jolly good fellow\"",
+            "direction": "across",
+            "group": [
+                "64-across"
+            ],
+            "humanNumber": 64,
+            "id": "64-across",
+            "length": 4,
+            "number": 64,
+            "position": {
+                "x": 0,
+                "y": 13
+            },
+            "separatorLocations": {},
+            "solution": "HESA"
+        },
+        {
+            "clue": "Where the Nobel Peace Prize is awarded",
             "direction": "across",
             "group": [
                 "65-across"
             ],
             "humanNumber": 65,
             "id": "65-across",
-            "length": 5,
+            "length": 4,
             "number": 65,
             "position": {
-                "x": 0,
+                "x": 5,
                 "y": 13
             },
             "separatorLocations": {},
-            "solution": "RARER"
+            "solution": "OSLO"
         },
         {
-            "clue": "Cancer isn\u2019t compatible with it",
+            "clue": "Skirt",
             "direction": "across",
             "group": [
                 "66-across"
@@ -548,48 +582,48 @@
             "length": 5,
             "number": 66,
             "position": {
-                "x": 6,
+                "x": 10,
                 "y": 13
             },
             "separatorLocations": {},
-            "solution": "LIBRA"
+            "solution": "EVADE"
         },
         {
-            "clue": "Just manage, with \u201cout\u201d",
+            "clue": "Like some airports (Abbr.)",
             "direction": "across",
             "group": [
                 "67-across"
             ],
             "humanNumber": 67,
             "id": "67-across",
-            "length": 3,
+            "length": 4,
             "number": 67,
             "position": {
-                "x": 12,
-                "y": 13
+                "x": 0,
+                "y": 14
             },
             "separatorLocations": {},
-            "solution": "EKE"
+            "solution": "INTL"
         },
         {
-            "clue": "Massage",
+            "clue": "Giant Mel and others",
             "direction": "across",
             "group": [
                 "68-across"
             ],
             "humanNumber": 68,
             "id": "68-across",
-            "length": 5,
+            "length": 4,
             "number": 68,
             "position": {
-                "x": 0,
+                "x": 5,
                 "y": 14
             },
             "separatorLocations": {},
-            "solution": "KNEAD"
+            "solution": "OTTS"
         },
         {
-            "clue": "Old flame",
+            "clue": "Society whose creator commented, \"I do get disappointed that so many members spend so much time solving puzzles\"",
             "direction": "across",
             "group": [
                 "69-across"
@@ -599,99 +633,82 @@
             "length": 5,
             "number": 69,
             "position": {
-                "x": 6,
+                "x": 10,
                 "y": 14
             },
             "separatorLocations": {},
-            "solution": "EMBER"
+            "solution": "MENSA"
         },
         {
-            "clue": "Cigarette ingredient",
-            "direction": "across",
-            "group": [
-                "70-across"
-            ],
-            "humanNumber": 70,
-            "id": "70-across",
-            "length": 3,
-            "number": 70,
-            "position": {
-                "x": 12,
-                "y": 14
-            },
-            "separatorLocations": {},
-            "solution": "TAR"
-        },
-        {
-            "clue": "Home Depot rival",
+            "clue": "Tortilla flour",
             "direction": "down",
             "group": [
                 "1-down"
             ],
             "humanNumber": 1,
             "id": "1-down",
-            "length": 5,
+            "length": 4,
             "number": 1,
             "position": {
                 "x": 0,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "LOWES"
+            "solution": "MASA"
         },
         {
-            "clue": "Muscle spasm",
+            "clue": "Justin Bieber, e.g.",
             "direction": "down",
             "group": [
                 "2-down"
             ],
             "humanNumber": 2,
             "id": "2-down",
-            "length": 5,
+            "length": 4,
             "number": 2,
             "position": {
                 "x": 1,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "CRAMP"
+            "solution": "IDOL"
         },
         {
-            "clue": "First name in exploration",
+            "clue": "Ready to eat",
             "direction": "down",
             "group": [
                 "3-down"
             ],
             "humanNumber": 3,
             "id": "3-down",
-            "length": 5,
+            "length": 4,
             "number": 3,
             "position": {
                 "x": 2,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "MARCO"
+            "solution": "DONE"
         },
         {
-            "clue": "Built-in iPhone app",
+            "clue": "Austin, TX, music festival with a geographic name",
             "direction": "down",
             "group": [
                 "4-down"
             ],
             "humanNumber": 4,
             "id": "4-down",
-            "length": 8,
+            "length": 5,
             "number": 4,
             "position": {
-                "x": 4,
+                "x": 3,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "FACETIME"
+            "solution": "SBYSW"
         },
         {
-            "clue": "German \u201cI\u201d",
+            "clue": "___-Mex",
             "direction": "down",
             "group": [
                 "5-down"
@@ -701,167 +718,167 @@
             "length": 3,
             "number": 5,
             "position": {
-                "x": 5,
+                "x": 4,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "ICH"
+            "solution": "TEX"
         },
         {
-            "clue": "\u201cNow I see!\u201d",
+            "clue": "Alternative to a 14-Across home",
             "direction": "down",
             "group": [
                 "6-down"
             ],
             "humanNumber": 6,
             "id": "6-down",
-            "length": 3,
+            "length": 6,
             "number": 6,
             "position": {
                 "x": 6,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "AHA"
+            "solution": "TEEPEE"
         },
         {
-            "clue": "Craggy hill",
+            "clue": "Others for hombres",
             "direction": "down",
             "group": [
                 "7-down"
             ],
             "humanNumber": 7,
             "id": "7-down",
-            "length": 3,
+            "length": 5,
             "number": 7,
             "position": {
                 "x": 7,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "TOR"
+            "solution": "OTROS"
         },
         {
-            "clue": "Humorless",
+            "clue": "Search engine creator",
             "direction": "down",
             "group": [
                 "8-down"
             ],
             "humanNumber": 8,
             "id": "8-down",
-            "length": 6,
+            "length": 8,
             "number": 8,
             "position": {
                 "x": 8,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "SOMBER"
+            "solution": "BAIDUINC"
         },
         {
-            "clue": "Baba ghanoush ingredient",
+            "clue": "H, to a sorority",
             "direction": "down",
             "group": [
                 "9-down"
             ],
             "humanNumber": 9,
             "id": "9-down",
-            "length": 6,
+            "length": 3,
             "number": 9,
             "position": {
-                "x": 10,
+                "x": 9,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "TAHINI"
+            "solution": "ETA"
         },
         {
-            "clue": "Prefix with cellular",
+            "clue": "Put out? (Alt.)",
             "direction": "down",
             "group": [
                 "10-down"
             ],
             "humanNumber": 10,
             "id": "10-down",
-            "length": 3,
+            "length": 9,
             "number": 10,
             "position": {
                 "x": 11,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "UNI"
+            "solution": "OSTRACISE"
         },
         {
-            "clue": "2011 Veronica Roth novel",
+            "clue": "Influence",
             "direction": "down",
             "group": [
                 "11-down"
             ],
             "humanNumber": 11,
             "id": "11-down",
-            "length": 9,
+            "length": 5,
             "number": 11,
             "position": {
                 "x": 12,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "DIVERGENT"
+            "solution": "POWER"
         },
         {
-            "clue": "Black cat, for some",
+            "clue": "\\\"Part of Your World\\\" singer",
             "direction": "down",
             "group": [
                 "12-down"
             ],
             "humanNumber": 12,
             "id": "12-down",
-            "length": 4,
+            "length": 5,
             "number": 12,
             "position": {
                 "x": 13,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "OMEN"
+            "solution": "ARIEL"
         },
         {
-            "clue": "It may be half or whole",
+            "clue": "Kravitz who played Cinna in \\\"The Hunger Games\\\"",
             "direction": "down",
             "group": [
                 "13-down"
             ],
             "humanNumber": 13,
             "id": "13-down",
-            "length": 4,
+            "length": 5,
             "number": 13,
             "position": {
                 "x": 14,
                 "y": 0
             },
             "separatorLocations": {},
-            "solution": "REST"
+            "solution": "LENNY"
         },
         {
-            "clue": "Common place for an accident",
+            "clue": "Noise for a certain mouse",
             "direction": "down",
             "group": [
                 "18-down"
             ],
             "humanNumber": 18,
             "id": "18-down",
-            "length": 5,
+            "length": 4,
             "number": 18,
             "position": {
-                "x": 3,
+                "x": 5,
                 "y": 2
             },
             "separatorLocations": {},
-            "solution": "MERGE"
+            "solution": "PIKA"
         },
         {
-            "clue": "Division of Humanities degs.",
+            "clue": "For each",
             "direction": "down",
             "group": [
                 "22-down"
@@ -871,14 +888,31 @@
             "length": 3,
             "number": 22,
             "position": {
-                "x": 9,
+                "x": 10,
                 "y": 3
             },
             "separatorLocations": {},
-            "solution": "MAS"
+            "solution": "PER"
         },
         {
-            "clue": "Suck face",
+            "clue": "Asia's disappearing ___ Sea",
+            "direction": "down",
+            "group": [
+                "24-down"
+            ],
+            "humanNumber": 24,
+            "id": "24-down",
+            "length": 4,
+            "number": 24,
+            "position": {
+                "x": 4,
+                "y": 4
+            },
+            "separatorLocations": {},
+            "solution": "ARAL"
+        },
+        {
+            "clue": "___ colada",
             "direction": "down",
             "group": [
                 "25-down"
@@ -888,167 +922,150 @@
             "length": 4,
             "number": 25,
             "position": {
-                "x": 5,
+                "x": 9,
                 "y": 4
             },
             "separatorLocations": {},
-            "solution": "SNOG"
+            "solution": "PINA"
         },
         {
-            "clue": "\u201cI\u2019ve seen better\u201d",
+            "clue": "Willy Wonka's creator",
             "direction": "down",
             "group": [
                 "26-down"
             ],
             "humanNumber": 26,
             "id": "26-down",
-            "length": 3,
+            "length": 4,
             "number": 26,
             "position": {
-                "x": 7,
-                "y": 4
+                "x": 0,
+                "y": 5
             },
             "separatorLocations": {},
-            "solution": "MEH"
+            "solution": "DAHL"
         },
         {
-            "clue": "Quietus",
+            "clue": "Attractive force?",
             "direction": "down",
             "group": [
                 "27-down"
             ],
             "humanNumber": 27,
             "id": "27-down",
-            "length": 3,
+            "length": 4,
             "number": 27,
             "position": {
-                "x": 11,
-                "y": 4
-            },
-            "separatorLocations": {},
-            "solution": "END"
-        },
-        {
-            "clue": "\u201cL8R M8\u201d",
-            "direction": "down",
-            "group": [
-                "29-down"
-            ],
-            "humanNumber": 29,
-            "id": "29-down",
-            "length": 3,
-            "number": 29,
-            "position": {
-                "x": 6,
+                "x": 1,
                 "y": 5
             },
             "separatorLocations": {},
-            "solution": "GTG"
+            "solution": "EROS"
         },
         {
-            "clue": "Singer of \u201cOnly Time\u201d",
+            "clue": "What a caterpillar becomes",
             "direction": "down",
             "group": [
-                "30-down"
+                "28-down"
             ],
-            "humanNumber": 30,
-            "id": "30-down",
+            "humanNumber": 28,
+            "id": "28-down",
             "length": 4,
-            "number": 30,
+            "number": 28,
             "position": {
-                "x": 13,
+                "x": 2,
                 "y": 5
             },
             "separatorLocations": {},
-            "solution": "ENYA"
+            "solution": "PUPA"
         },
         {
-            "clue": "Seedy loaves",
-            "direction": "down",
-            "group": [
-                "31-down"
-            ],
-            "humanNumber": 31,
-            "id": "31-down",
-            "length": 4,
-            "number": 31,
-            "position": {
-                "x": 14,
-                "y": 5
-            },
-            "separatorLocations": {},
-            "solution": "RYES"
-        },
-        {
-            "clue": "Something passed in class",
+            "clue": "Certain call for assistance",
             "direction": "down",
             "group": [
                 "32-down"
             ],
             "humanNumber": 32,
             "id": "32-down",
-            "length": 4,
+            "length": 9,
             "number": 32,
             "position": {
-                "x": 0,
+                "x": 3,
                 "y": 6
             },
             "separatorLocations": {},
-            "solution": "BALL"
+            "solution": "BATSIGNAL"
         },
         {
-            "clue": "Race in The Time Machine",
+            "clue": "Starter (Abbr.)",
             "direction": "down",
             "group": [
                 "33-down"
             ],
             "humanNumber": 33,
             "id": "33-down",
-            "length": 4,
+            "length": 3,
             "number": 33,
             "position": {
-                "x": 1,
+                "x": 7,
                 "y": 6
             },
             "separatorLocations": {},
-            "solution": "ELOI"
+            "solution": "IGN"
         },
         {
-            "clue": "Caterpillar or camel",
+            "clue": "\\\"Later!\\\"",
             "direction": "down",
             "group": [
-                "34-down"
+                "35-down"
             ],
-            "humanNumber": 34,
-            "id": "34-down",
-            "length": 9,
-            "number": 34,
+            "humanNumber": 35,
+            "id": "35-down",
+            "length": 4,
+            "number": 35,
             "position": {
-                "x": 2,
+                "x": 12,
                 "y": 6
             },
             "separatorLocations": {},
-            "solution": "HERBIVORE"
+            "solution": "CIAO"
         },
         {
-            "clue": "Globe",
+            "clue": "Neighbors for 2018",
             "direction": "down",
             "group": [
-                "38-down"
+                "36-down"
             ],
-            "humanNumber": 38,
-            "id": "38-down",
-            "length": 3,
-            "number": 38,
+            "humanNumber": 36,
+            "id": "36-down",
+            "length": 4,
+            "number": 36,
             "position": {
-                "x": 8,
-                "y": 7
+                "x": 13,
+                "y": 6
             },
             "separatorLocations": {},
-            "solution": "ORB"
+            "solution": "ODDS"
         },
         {
-            "clue": "Bit of merchandise",
+            "clue": "TSLA host",
+            "direction": "down",
+            "group": [
+                "37-down"
+            ],
+            "humanNumber": 37,
+            "id": "37-down",
+            "length": 4,
+            "number": 37,
+            "position": {
+                "x": 14,
+                "y": 6
+            },
+            "separatorLocations": {},
+            "solution": "NYSE"
+        },
+        {
+            "clue": "\\\"Metamorphoses\\\" poet",
             "direction": "down",
             "group": [
                 "39-down"
@@ -1058,14 +1075,14 @@
             "length": 4,
             "number": 39,
             "position": {
-                "x": 9,
+                "x": 5,
                 "y": 7
             },
             "separatorLocations": {},
-            "solution": "WARE"
+            "solution": "OVID"
         },
         {
-            "clue": "\u201cRats live on no ___\u201d",
+            "clue": "Nonobligatory",
             "direction": "down",
             "group": [
                 "40-down"
@@ -1075,65 +1092,48 @@
             "length": 8,
             "number": 40,
             "position": {
+                "x": 6,
+                "y": 7
+            },
+            "separatorLocations": {},
+            "solution": "NOTAMUST"
+        },
+        {
+            "clue": "It's fit to be tied?",
+            "direction": "down",
+            "group": [
+                "41-down"
+            ],
+            "humanNumber": 41,
+            "id": "41-down",
+            "length": 4,
+            "number": 41,
+            "position": {
                 "x": 10,
                 "y": 7
             },
             "separatorLocations": {},
-            "solution": "EVILSTAR"
+            "solution": "SHOE"
         },
         {
-            "clue": "West end?",
+            "clue": "Rds.",
             "direction": "down",
             "group": [
-                "43-down"
+                "46-down"
             ],
-            "humanNumber": 43,
-            "id": "43-down",
+            "humanNumber": 46,
+            "id": "46-down",
             "length": 3,
-            "number": 43,
+            "number": 46,
             "position": {
-                "x": 3,
-                "y": 8
+                "x": 4,
+                "y": 9
             },
             "separatorLocations": {},
-            "solution": "ERN"
+            "solution": "LNS"
         },
         {
-            "clue": "___-X",
-            "direction": "down",
-            "group": [
-                "44-down"
-            ],
-            "humanNumber": 44,
-            "id": "44-down",
-            "length": 3,
-            "number": 44,
-            "position": {
-                "x": 7,
-                "y": 8
-            },
-            "separatorLocations": {},
-            "solution": "GEN"
-        },
-        {
-            "clue": "Moroccan faith",
-            "direction": "down",
-            "group": [
-                "45-down"
-            ],
-            "humanNumber": 45,
-            "id": "45-down",
-            "length": 5,
-            "number": 45,
-            "position": {
-                "x": 11,
-                "y": 8
-            },
-            "separatorLocations": {},
-            "solution": "ISLAM"
-        },
-        {
-            "clue": "Your UChicago Arts Pass",
+            "clue": "Five-strings",
             "direction": "down",
             "group": [
                 "47-down"
@@ -1143,48 +1143,65 @@
             "length": 6,
             "number": 47,
             "position": {
-                "x": 4,
+                "x": 8,
                 "y": 9
             },
             "separatorLocations": {},
-            "solution": "IDCARD"
+            "solution": "BANJOS"
         },
         {
-            "clue": "\u201cChandelier\u201d artist",
+            "clue": "\\\"___ girl!\\\"",
             "direction": "down",
             "group": [
                 "48-down"
             ],
             "humanNumber": 48,
             "id": "48-down",
-            "length": 3,
+            "length": 4,
             "number": 48,
             "position": {
-                "x": 5,
+                "x": 9,
                 "y": 9
             },
             "separatorLocations": {},
-            "solution": "SIA"
+            "solution": "ITSA"
         },
         {
-            "clue": "Hang, as spaghetti on a fork",
+            "clue": "Japanese dessert",
             "direction": "down",
             "group": [
-                "49-down"
+                "50-down"
             ],
-            "humanNumber": 49,
-            "id": "49-down",
-            "length": 6,
-            "number": 49,
+            "humanNumber": 50,
+            "id": "50-down",
+            "length": 5,
+            "number": 50,
             "position": {
-                "x": 6,
-                "y": 9
+                "x": 0,
+                "y": 10
             },
             "separatorLocations": {},
-            "solution": "DANGLE"
+            "solution": "MOCHI"
         },
         {
-            "clue": "\u201cHow about ___ you then?\u201d",
+            "clue": "Woman's name that rhymes with another woman's name",
+            "direction": "down",
+            "group": [
+                "51-down"
+            ],
+            "humanNumber": 51,
+            "id": "51-down",
+            "length": 5,
+            "number": 51,
+            "position": {
+                "x": 1,
+                "y": 10
+            },
+            "separatorLocations": {},
+            "solution": "ELLEN"
+        },
+        {
+            "clue": "Fewest",
             "direction": "down",
             "group": [
                 "52-down"
@@ -1194,14 +1211,14 @@
             "length": 5,
             "number": 52,
             "position": {
-                "x": 12,
+                "x": 2,
                 "y": 10
             },
             "separatorLocations": {},
-            "solution": "IMEET"
+            "solution": "LEAST"
         },
         {
-            "clue": "Japanese seaport",
+            "clue": "Self-reproach",
             "direction": "down",
             "group": [
                 "53-down"
@@ -1211,14 +1228,14 @@
             "length": 5,
             "number": 53,
             "position": {
-                "x": 13,
+                "x": 7,
                 "y": 10
             },
             "separatorLocations": {},
-            "solution": "OSAKA"
+            "solution": "GUILT"
         },
         {
-            "clue": "Boil it, mash it, stick it in a stew",
+            "clue": "Jobs, for one",
             "direction": "down",
             "group": [
                 "54-down"
@@ -1228,65 +1245,65 @@
             "length": 5,
             "number": 54,
             "position": {
-                "x": 14,
+                "x": 11,
                 "y": 10
             },
             "separatorLocations": {},
-            "solution": "TATER"
+            "solution": "STEVE"
         },
         {
-            "clue": "\u201cMy Songs Know What You Did in the ___\u201d: Fall Out Boy",
+            "clue": "Home of Muscat but not Muscat grapes",
             "direction": "down",
             "group": [
-                "55-down"
+                "58-down"
             ],
-            "humanNumber": 55,
-            "id": "55-down",
+            "humanNumber": 58,
+            "id": "58-down",
             "length": 4,
-            "number": 55,
+            "number": 58,
             "position": {
-                "x": 0,
+                "x": 12,
                 "y": 11
             },
             "separatorLocations": {},
-            "solution": "DARK"
+            "solution": "OMAN"
         },
         {
-            "clue": "Extended family",
+            "clue": "Not men",
             "direction": "down",
             "group": [
-                "56-down"
+                "59-down"
             ],
-            "humanNumber": 56,
-            "id": "56-down",
+            "humanNumber": 59,
+            "id": "59-down",
             "length": 4,
-            "number": 56,
+            "number": 59,
             "position": {
-                "x": 1,
+                "x": 13,
                 "y": 11
             },
             "separatorLocations": {},
-            "solution": "CLAN"
+            "solution": "GODS"
         },
         {
-            "clue": "Grassy expanse",
+            "clue": "Coveted airline seat",
             "direction": "down",
             "group": [
                 "60-down"
             ],
             "humanNumber": 60,
             "id": "60-down",
-            "length": 3,
+            "length": 4,
             "number": 60,
             "position": {
-                "x": 3,
-                "y": 12
+                "x": 14,
+                "y": 11
             },
             "separatorLocations": {},
-            "solution": "LEA"
+            "solution": "ONEA"
         },
         {
-            "clue": "Border",
+            "clue": "Tic-tac-toe win",
             "direction": "down",
             "group": [
                 "62-down"
@@ -1296,14 +1313,14 @@
             "length": 3,
             "number": 62,
             "position": {
-                "x": 7,
+                "x": 5,
                 "y": 12
             },
             "separatorLocations": {},
-            "solution": "RIM"
+            "solution": "OOO"
         },
         {
-            "clue": "Retreat",
+            "clue": "Rep.'s rival",
             "direction": "down",
             "group": [
                 "63-down"
@@ -1313,32 +1330,15 @@
             "length": 3,
             "number": 63,
             "position": {
-                "x": 8,
+                "x": 10,
                 "y": 12
             },
             "separatorLocations": {},
-            "solution": "EBB"
-        },
-        {
-            "clue": "\u201cYou ___ beautiful\u201d",
-            "direction": "down",
-            "group": [
-                "64-down"
-            ],
-            "humanNumber": 64,
-            "id": "64-down",
-            "length": 3,
-            "number": 64,
-            "position": {
-                "x": 9,
-                "y": 12
-            },
-            "separatorLocations": {},
-            "solution": "ARE"
+            "solution": "DEM"
         }
     ],
-    "id": "27-Lookalikes",
-    "name": "Lookalikes",
-    "number": 27,
+    "id": "29-HiddenGems",
+    "name": "Hidden Gems",
+    "number": 29,
     "solutionAvailable": true
 }

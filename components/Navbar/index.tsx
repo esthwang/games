@@ -25,18 +25,6 @@ const NavBrand = styled.a`
     height: 35px;
   }
 `;
-const A = ({ className, children }) => {
-  return (
-    <Link>
-      <a className={className}>
-        {children}
-      </a>
-    </Link>
-  );
-};
-const NavLink = styled.a`
-  padding-top: 1.3rem;  
-`;
 
 
 export default class Navbar extends React.Component<{}, {}> {

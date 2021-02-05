@@ -38,7 +38,7 @@ const Index = (props: Props) => (
 /*
  * Turn array of crossword filenames to crossword objects.
  */
-function processCWFiles(ls: string[]): Crossword[] {
+function processCWFiles(ls: string[]): CrosswordProps[] {
   return ls.map((fname, i) => {
     let procString = fname.trim();
     let comps = procString.substring(0, procString.length - 5).split(' ');

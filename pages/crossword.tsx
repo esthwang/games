@@ -7,12 +7,13 @@ import styled from 'styled-components';
 import { Col, Grid, Row } from 'react-styled-flexboxgrid';
 import { InnerContainer } from '../styles';
 import { recordPageview } from '../globals/utils';
+import { NextPageContext } from 'next';
 import { withRouter } from 'next/router';
 
 
 // To enable work with static export, as crossword 
 // needs window object.
-const CW = dynamic(import('@chicagomaroon/react-crossword'), {
+const CW: any = dynamic(import('@chicagomaroon/react-crossword'), {
   ssr: false
 })
 
@@ -91,7 +92,7 @@ function createByline(ls: string): JSX.Element[] {
 
   return bylineItems;
 }
-const Crossword = withRouter((props: Props) => (
+const Crossword: any = withRouter((props: Props) => (
   <>
     <Navbar />
 
@@ -121,15 +122,19 @@ const Crossword = withRouter((props: Props) => (
   </>
 ));
 
-Crossword.getInitialProps = async function ({ req, query }) {
-  const cwFiles = await import('../data.json');
-  const data = await import(`../crosswords/${cwFiles[query.id]}`);
-  // record pageview if data exists
-  if (data !== undefined) {
-    recordPageview(`/crosswords/${query.id}`);
-  }
+Crossword.getInitialProps = async function ({ req, query }: NextPageContext) {
+  if (query && query.id) {
+      const cwFiles: string[] = await import('../data.json');
+      const id: number = typeof query.id === "string" ? parseInt(query.id) : parseInt(query.id[0]);
+      const data = await import(`../crosswords/${cwFiles[id]}`);
+      // record pageview if data exists
+      if (data !== undefined) {
+        recordPageview(`/crosswords/${query.id}`);
+      }
 
-  return { data: data };
+      return { data: data };
+  } else
+      return {};
 }
 
 export default Crossword;

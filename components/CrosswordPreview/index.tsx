@@ -37,11 +37,6 @@ const Timestamp = styled.p`
   font-size: 1rem;
   margin-bottom: -1rem;
 `;
-const Byline = styled.p`
-  color: ${props => props.theme.colors.brightness_50};
-  font-size: 0.9rem;
-  padding: 0 1rem 0 1rem;  
-`;
 
 
 export default class CrosswordPreview extends React.Component<Props, {}> {

@@ -1,6 +1,3 @@
-const withTypescript = require('@zeit/next-typescript');
-
-module.exports = withTypescript();
 module.exports.exportPathMap = async function (defaultPathMap) {
   // Need to define all possible paths for dynamic pages
   const cwFiles = await require('./data.json');

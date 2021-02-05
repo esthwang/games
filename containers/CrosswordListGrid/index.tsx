@@ -7,7 +7,7 @@ import { Col, Grid, Row } from 'react-styled-flexboxgrid';
 
 const Container = styled.div``;
 
-interface CrosswordProps {
+export interface CrosswordProps {
   name: string;
   date: string;
   index: number;
@@ -42,5 +42,3 @@ export default class CrosswordListGrid extends React.Component<Props, {}> {
     );
   }
 };
-
-export { CrosswordProps };

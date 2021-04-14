@@ -36,21 +36,19 @@ const Index = (props: Props) => (
 );
 
 /*
- * Turn array of crossword filenames to crossword objects.
+ * Read the name, date, and number from a data file.
+ * Previously this was all stored in the filename, but that didn't
+ * support name punctuation.
  */
-function processCWFiles(ls: string[]): CrosswordProps[] {
-  return ls.map((fname, i) => {
-    let procString = fname.trim();
-    let comps = procString.substring(0, procString.length - 5).split(' ');
-    let date = comps[0];
-    let name = comps.splice(1, comps.length - 1).join(' ');
-    return { name: name, date: date, index: i };
-  });
+async function processCWFile(fname: string, index: number) : Promise<CrosswordProps> {
+  const data = await import(`../crosswords/${fname}`);
+  return { name: data.name, date: data.publishDate, index: index };
 }
 
 Index.getInitialProps = async function () {
   const cwFiles = await import('../data.json');
-  let cwPreviews = processCWFiles(cwFiles.default);
+  const cwPreviews: CrosswordProps[] = await Promise.all(cwFiles.default.map((fname, i) =>
+    processCWFile(fname, i)));
   cwPreviews.reverse();
 
   return { crosswords: cwPreviews };

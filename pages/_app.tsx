@@ -15,7 +15,7 @@ export default class MyApp extends App {
           <Component {...pageProps} />
         </ThemeProvider>
         <GlobalStyle />
-        <NextSeo config={SEO} />
+        <NextSeo {...SEO} />
       </>
     );
   }

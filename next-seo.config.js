@@ -1,12 +1,12 @@
 export default {
   title: 'Crossword | The Chicago Maroon',
-  description: 'Play The Chicago Maroon\'s Crossword online, free of charge.',
+  description: 'Play The Chicago Maroon\'s Crossword online.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://games.chicagomaroon.com/',
     title: 'Crossword | The Chicago Maroon',
-    description: 'Play The Chicago Maroon\'s Crossword online, free of charge.',
+    description: 'Play The Chicago Maroon\'s Crossword online.',
     defaultImageWidth: 1200,
     defaultImageHeight: 628,
     // Multiple Open Graph images is only available in version `7.0.0-canary.0`+ of next (see note top of README.md)

@@ -113,7 +113,7 @@ const Crossword: any = withRouter((props: Props) => (
       <Grid fluid>
         <Row>
           <Col xs={12}>
-            <CW data={props.data} />
+            <CW data={props.data} id={props.data.id} />
           </Col>
         </Row>
       </Grid>

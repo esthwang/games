@@ -50,8 +50,10 @@ function processCWFiles(ls: string[]): CrosswordProps[] {
 
 Index.getInitialProps = async function () {
   const cwFiles = await import('../data.json');
+  let cwPreviews = processCWFiles(cwFiles.default);
+  cwPreviews.reverse();
 
-  return { crosswords: processCWFiles(cwFiles.default) };
+  return { crosswords: cwPreviews };
 }
 
 Index.componentWillMount = function () {

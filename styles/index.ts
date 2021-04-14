@@ -50,6 +50,12 @@ p {
 a {
   text-decoration: none;
 }
+
+button[data-link-name="Show anagram helper"] {
+    visibility: hidden;
+    height:0;
+    padding:0;
+}
 `;
 
 const Theme = {
